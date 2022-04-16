@@ -1,5 +1,5 @@
 ## CiteRet
-Code for our paper "CitRet: Cited Text Span Retrieval Pipeline for Scientific Documents"
+Code for our paper "CitRet: A Hybrid Model for Cited Text Span Retrieval for Scientific Documents"
 
 ## Instructions to run the code
 * Install dependencies
