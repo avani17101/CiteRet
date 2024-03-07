@@ -1,5 +1,5 @@
 ## CiteRet
-Code for our paper "CitRet: A Hybrid Model for Cited Text Span Retrieval for Scientific Documents"
+Code for our paper titled "CitRet: A Hybrid Model for Cited Text Span Retrieval" accepted in Coling 2022. [Paper link](https://aclanthology.org/2022.coling-1.399/)
 
 ## Instructions to run the code
 * Install dependencies
